@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Payout-v2-Dashboard-Assignment/static/css/main.18932519.css",
+    "main.js": "/Payout-v2-Dashboard-Assignment/static/js/main.aa011a88.js",
+    "static/js/787.314bea39.chunk.js": "/Payout-v2-Dashboard-Assignment/static/js/787.314bea39.chunk.js",
+    "index.html": "/Payout-v2-Dashboard-Assignment/index.html",
+    "main.18932519.css.map": "/Payout-v2-Dashboard-Assignment/static/css/main.18932519.css.map",
+    "main.aa011a88.js.map": "/Payout-v2-Dashboard-Assignment/static/js/main.aa011a88.js.map",
+    "787.314bea39.chunk.js.map": "/Payout-v2-Dashboard-Assignment/static/js/787.314bea39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18932519.css",
+    "static/js/main.aa011a88.js"
+  ]
+}
